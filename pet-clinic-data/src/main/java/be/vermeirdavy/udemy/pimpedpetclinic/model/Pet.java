@@ -1,4 +1,4 @@
-package be.vermeirdavy.udemy.springpetclinic.model;
+package be.vermeirdavy.udemy.pimpedpetclinic.model;
 
 import java.time.LocalDate;
 

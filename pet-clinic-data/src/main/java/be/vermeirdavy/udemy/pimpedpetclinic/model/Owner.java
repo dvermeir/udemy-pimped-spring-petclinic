@@ -1,6 +1,6 @@
-package be.vermeirdavy.udemy.springpetclinic.model;
+package be.vermeirdavy.udemy.pimpedpetclinic.model;
 
-public class Owner extends Person{
+public class Owner extends Person {
     public Owner(String firstName, String lastName) {
         super(firstName, lastName);
     }
